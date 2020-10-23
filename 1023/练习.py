@@ -115,3 +115,6 @@ if __name__ == '__main__':
     # print(tt.root)
     # print(tt.search("some"))
     # print(tt.searchPre("so"))
+
+
+
